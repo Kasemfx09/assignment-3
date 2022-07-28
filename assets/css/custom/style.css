@@ -11,3 +11,6 @@ body {
     height: 100% !important;
     background-color: rgba(56, 49, 49, 0.7) !important;
 }
+.social-icon .face{
+    padding: 4px 10px !important;
+}
